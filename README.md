@@ -24,3 +24,8 @@ mkdir .ssh
 ```
 nano authorized_keys
 ```
+```
+Host nw.ttc
+    User nicowalters
+    IdentityFile ~/.ssh/id_rsa
+```
