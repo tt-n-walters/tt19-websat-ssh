@@ -11,3 +11,7 @@ cd .ssh
 Windows:     dir
 Mac/Linux    ls
 ```
+```
+Windows:     explorer .
+Mac/Linux    open .
+```
