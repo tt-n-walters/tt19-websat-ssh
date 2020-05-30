@@ -18,3 +18,6 @@ Mac/Linux    open .
 ```
 ssh nicowalters@techtalents.cloud
 ```
+```
+mkdir .ssh
+```
