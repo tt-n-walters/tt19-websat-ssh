@@ -29,3 +29,6 @@ Host nw.ttc
     User nicowalters
     IdentityFile ~/.ssh/id_rsa
 ```
+```
+mv config.txt config
+```
