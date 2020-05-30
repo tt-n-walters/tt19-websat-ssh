@@ -26,6 +26,7 @@ nano authorized_keys
 ```
 ```
 Host nw.ttc
+    HostName techtalents.cloud
     User nicowalters
     IdentityFile ~/.ssh/id_rsa
 ```
