@@ -21,3 +21,6 @@ ssh nicowalters@techtalents.cloud
 ```
 mkdir .ssh
 ```
+```
+nano authorized_keys
+```
