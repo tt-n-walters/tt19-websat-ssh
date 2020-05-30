@@ -15,3 +15,6 @@ Mac/Linux    ls
 Windows:     explorer .
 Mac/Linux    open .
 ```
+```
+ssh nicowalters@techtalents.cloud
+```
